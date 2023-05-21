@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @setto29
-- 👀 I’m interested in the tech field specifically web development and AI
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in the tech field specifically web development, healthcare technologies and AI
+- 🌱 I’m currently learning web development and programming basics on p5.js
+- 💞️ I’m looking to collaborate on web development projects or anything I might fancy
 - 📫 How to reach me: tupaslisette@gmail.com
 
 <!---
